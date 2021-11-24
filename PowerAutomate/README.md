@@ -6,4 +6,5 @@ In this place I will store the reference materials to my blog posts. Hope this w
    -   <a href="HowToGetRandomItems">Materials to the blog post</a>
 2. Blog Post: [How to Apply Site template (Site Design) via Power Automate](https://365corner.pl/2021/10/14/how-to-apply-site-template-via-power-automate)
    - <a href="ApplySiteTemplates">Materials to the blog post</a> 
- 
+3. Blog Post: [How to Get Site templates (Site Design) via Power Automate](https://365corner.pl/2021/11/24/how-to-get-site-templates-site-design-via-power-automate)
+   - <a href="HowToGetSiteTemplates">Materials to the blog post</a> 
