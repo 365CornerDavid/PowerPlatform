@@ -7,6 +7,9 @@ Convering functions:
 * ForAll
 * Concat
 
+### [Link to recording](https://youtu.be/WtKTWcMX5Uc)
+
+
 Key formula of the whole idea:
 
 ```powerapps
