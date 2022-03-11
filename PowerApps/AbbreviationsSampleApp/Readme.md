@@ -4,6 +4,8 @@ Contains demonstration code of how to based on User input create Abbrevations fr
 
 ### [Link to recording](https://youtu.be/WtKTWcMX5Uc)
 
+### [Link to Sample App](https://github.com/365CornerDavid/PowerPlatform/blob/master/PowerApps/AbbreviationsSampleApp/Abbreviations.msapp)
+
 Convering functions:
 * Split
 * With
