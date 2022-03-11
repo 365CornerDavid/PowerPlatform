@@ -1,14 +1,18 @@
-#AbbreviationsSampleApp sample App 
+# AbbreviationsSampleApp sample App 
 
 Contains demonstration code of how to based on User input create Abbrevations from the first letters of words.
+
+### [Link to recording](https://youtu.be/WtKTWcMX5Uc)
+
 Convering functions:
 * Split
 * With
 * ForAll
 * Concat
 
-### [Link to recording](https://youtu.be/WtKTWcMX5Uc)
 
+ 
+![Image with PowerApps tip for abbreviations](https://github.com/365CornerDavid/PowerPlatform/blob/master/PowerApps/AbbreviationsSampleApp/Abbreviations.png "Image with PowerApps tip for abbreviations")
 
 Key formula of the whole idea:
 
@@ -29,3 +33,5 @@ With({
     )
 )
 ```
+
+### [Link to recording](https://youtu.be/WtKTWcMX5Uc)
