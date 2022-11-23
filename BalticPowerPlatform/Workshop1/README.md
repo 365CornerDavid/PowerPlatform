@@ -9,7 +9,7 @@ Here you will find the Solution package with the following assets:
     * Environment variables
     * Connection Reference
 
-## How to install Solution
+### How to install Solution
 
 * Download Solution package file
 * Go to your tenant - office.com
@@ -17,5 +17,18 @@ Here you will find the Solution package with the following assets:
     * During the process provide your Connection for Connection Reference
     * During the process add SharePoint Site URL where you want the list to be created
     * Leave LIST Environment Variable empty
-*  
+After successfull import
+
+### "Wnioski" list creation
+    * Go to the CreateSPO_Wnioski_list cloud flow
+    * Make sure it is Turn On
+    * Run the Flow
+    * Check if the list has been created
+
+### Update of Environment Variabl
+*   Select SPO_List_BPP_Wnioski Env Variable and start editing
+*   Select freshly created list (Wnioski) as Current value
+
+
+
 
