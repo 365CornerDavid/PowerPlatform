@@ -20,11 +20,11 @@ Here you will find the Solution package with the following assets:
     * Leave LIST Environment Variable empty
 After successfull import
 
-### "Wnioski" list creation
-    * Go to the CreateSPO_Wnioski_list cloud flow
-    * Make sure it is Turn On
-    * Run the Flow
-    * Check if the list has been created
+### Creation of the "Wnioski" list
+* Go to the CreateSPO_Wnioski_list cloud flow
+* Make sure it is Turn On
+* Run the Flow
+* Check if the list has been created
 
 ### Update of Environment Variabl
 *   Select SPO_List_BPP_Wnioski Env Variable and start editing
