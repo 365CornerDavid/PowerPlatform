@@ -11,7 +11,7 @@ Here you will find the Solution package with the following assets:
 
 ### How to install Solution
 
-* Download Solution package file
+* Download Solution package file <a href="/BalticPowerPlatform/Workshop1/BPP_Workshop1_1_0_0_1.zip"> BPP_Workshop1_1_0_0_1.zip</a>
 * Go to your tenant - office.com
 * Import Solution - How to do it [click here](https://learn.microsoft.com/en-us/power-apps/maker/data-platform/import-update-export-solutions)
     * During the process provide your Connection for Connection Reference
@@ -30,6 +30,7 @@ After successfull import
 ### Update of Environment Variabl
 *   Select SPO_List_BPP_Wnioski Env Variable and start editing
 *   Select freshly created list (Wnioski) as Current value
+
 ![Adding List to Env Variable](https://github.com/365CornerDavid/PowerPlatform/blob/master/BalticPowerPlatform/Workshop1/images/2022-11-23_14h49_23.png "Adding List to Env Variable")
 
 ### Run the App
