@@ -9,7 +9,7 @@ Below instruction is required to deploy / create in your site collection lists &
 * Go to your tenant - office.com
 * Import Solution - How to do it [click here](https://learn.microsoft.com/en-us/power-apps/maker/data-platform/import-update-export-solutions)
     * During the process provide your Connection for Connection Reference
-    ![Adding connection references]([https://github.com/365CornerDavid/PowerPlatform/blob/master/CollabDaysWorkshop/Images/Screenshot 2025-05-15 130853.png](https://github.com/365CornerDavid/PowerPlatform/blob/master/CollabDaysWorkshop/Images/Screenshot%202025-05-15%20130853.png) "Adding connection references")
+    ![Adding connection references](https://github.com/365CornerDavid/PowerPlatform/blob/master/CollabDaysWorkshop/Images/Screenshot%202025-05-15%20130853.png "Adding connection references")
       
 After successfull import
 
