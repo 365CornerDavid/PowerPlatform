@@ -19,8 +19,8 @@ After successfull import
 * Make sure it is Turn On
 * Run the Flow
 * Provide Site URL where you will be stroing your data
-![Adding site url]
-(https://github.com/365CornerDavid/PowerPlatform/blob/master/CollabDaysWorkshop/Images/Screenshot%202025-05-15%20132146.png "Adding site url")
+  ![Adding site url](https://github.com/365CornerDavid/PowerPlatform/blob/master/CollabDaysWorkshop/Images/Screenshot%202025-05-15%20132146.png "Adding site url")
+
 * Check if the lists & library has been created
 
 
